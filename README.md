@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI3MWl2NnMzemZ3ZXlzZ3doMDl1NHdpcHd6NzZvMzR0NDk3YWk5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</div>
-
 <!--
 **iannn4u/iannn4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

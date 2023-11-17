@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pin.it/7DIqLxU" width="100"/>
+  <img src="https://iconscout.com/lottie-animation/programmer-working-on-pc-3917154" width="100"/>
 </div>
 
 <!--
